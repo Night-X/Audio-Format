@@ -1,5 +1,5 @@
 # Audio-Format
-音频格式解析 转载自：[我的博客](http://blog.chinaunix.net/uid-20617446-id-3718352.html) 
+音频格式解析 转载自：[ MP3文件结构及编解码流程 ](http://blog.chinaunix.net/uid-20617446-id-3718352.html) 
 ## MP3
 ### 一、MP3简介：
 &emsp;MP3全称MPEG 1 audio layer 3，其中MPEG（Moving Picture Experts Group）标准包括视频和音频标准，其中音频标准已制定出 MPEG-1、MPEG-2、MPEG-2 AAC和MPEG-4。
